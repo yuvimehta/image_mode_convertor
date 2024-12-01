@@ -1,0 +1,38 @@
+# Typical gitignore 
+# ROS 2 build directories
+build/
+install/
+log/
+
+# Dependency management
+*.tar.gz
+*.deb
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# ROS 2 generated files
+*.egg-info/
+*.pyo
+*.log
+
+# VS Code settings
+.vscode/
+
+# CMake cache and temporary files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+*.d
+
+# IDE or editor settings
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Ubuntu workspace cache
+.deb*
+-

@@ -9,7 +9,7 @@
 ```bash
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
-git clonehttps://github.com/yuvimehta/image_mode_convertor.git 
+git clone https://github.com/yuvimehta/image_mode_convertor.git 
 ```
 ### Build the package and Setup Workspace
 
